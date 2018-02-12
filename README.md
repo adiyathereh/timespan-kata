@@ -2,7 +2,7 @@
 
 ## Summary
 
-The goal is to implement a utility function that 'pretty-prints' timespans. For example, 3620 seconds become "1 hour, 20 seconds ago". Such a function greatly enhances UX by providing the user a readable timespan without bothering it with details.
+The goal is to implement a utility function that 'pretty-prints' timespans. For example, 3620 seconds become "1 hour, 20 seconds". Such a function greatly enhances UX by providing the user a readable timespan without bothering it with details.
 
 ### Suggestions
 
